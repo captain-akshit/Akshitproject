@@ -1,0 +1,32 @@
+softwear login details
+                                                                   
+dropul login
+https://eil.wfsbc.com/
+admin
+Admin123!
+
+dashboard login
+eil.wfsbc.com
+user - superadmin 
+Pass - Admin$1234!
+
+project name - ESSGEE MIS login details
+https://essgeemis.olsys.in/login
+user - tushar@openlogicsys.com
+pass - Admin123!
+
+dropul admin login
+id- admin 
+pass- Admin123!
+
+stan max project.
+login - akshit@openlogicsys.com
+password - 12345678
+
+lemma login
+login - superadmin or admin
+password - Super@admin123
+
+jsa login 
+username - hemant@openlogicsys.com
+password - Tmsjsa@admin
